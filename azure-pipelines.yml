@@ -16,7 +16,7 @@ resources :
   #Required
   - repository : azureSharedTemplates
     type : github
-    endpoint : TestDevOps
+    endpoint : vjuluriMweb
     name : vjuluriMweb/mslearn-tailspin-spacegame-web
     branch : master
  
