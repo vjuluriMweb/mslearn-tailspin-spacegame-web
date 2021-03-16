@@ -25,7 +25,7 @@ resources :
 
     endpoint : TestDevOps
 
-    name : vjuluriMweb.mslearn-tailspin-spacegame-web
+    name : vjuluriMweb/mslearn-tailspin-spacegame-web
 
     branch : master
 
