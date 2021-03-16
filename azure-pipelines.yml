@@ -17,7 +17,7 @@ resources :
   - repository : azureSharedTemplates
     type : github
     endpoint : vjuluriMweb
-    name : vjuluriMweb/mslearn-tailspin-spacegame-web
+    name : ILiuACR/shared-azure-pipeline-templates
     branch : master
  
 #define variables
